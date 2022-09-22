@@ -5,7 +5,8 @@ In career transition, studying with this goal. I am deepening my knowledge in HT
 
 - 🌱 I’m currently learning <strong>ReactJS</strong>
 
-###
+### Connect with me: <br>
+<a href="https://linkedin.com/in/vitor-barbeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-barbeiro" height="30" width="40" /></a>
 
 <br/>
 
