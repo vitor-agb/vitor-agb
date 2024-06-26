@@ -1,12 +1,7 @@
 ### Hi 👋, I'm
 # Vitor Barbeiro
 
-In career transition, studying with this goal. I am already learned HTML, CSS Javascript, Typescript, ReactJS, Java, Datebase, SQL.
-
-- 🌱 I’m currently learning <strong>Angular</strong>
-
-### Connect with me: <br>
-<a href="https://linkedin.com/in/vitor-barbeiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-barbeiro" height="30" width="40" /></a>
+I am currently studying Systems Analysis and Development, although I have already graduated in Business Administration. I am going through a career transition to the Information Technology field and, to complement my academic training, I am taking online courses to deepen my knowledge. I am already learned HTML, CSS Javascript, Typescript, ReactJS, Java, Datebase, SQL.
 
 <br/>
 
